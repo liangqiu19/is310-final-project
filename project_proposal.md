@@ -1,1 +1,3 @@
-## This is the project proposal
+# This is the project proposal
+
+## Project Description
